@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Android / Gradle
+.gradle/
+.kotlin/
+.idea/
+*.iml
+build/
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Xcode
+DerivedData/
+xcuserdata/
+.swiftpm/
+.build/
